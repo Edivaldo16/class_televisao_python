@@ -4,7 +4,7 @@ Implementação do exemplo `class` proposto pelo professor Rafael Galleani no cu
 # Diferenciais
 
 * Corrigi um possível problema com os métodos `aumenta_canal` e `diminui_canal`. Antes existia a possibilidade de aumentar e diminuir os canais sem um range. Coloquei um condicional que limita o range de seleção dos canais. 
-* Implementei um novo método denominado `escolhe_canal` cuja funcionalidade é permitir que o usuário insira o número do canal diretamente. Coloquei um laço de repetição `while` afim de "forçar" o usuário a insirir uma opção válida.
+* Implementei um novo método denominado `escolhe_canal` cuja funcionalidade é permitir que o usuário insira o número do canal diretamente. Coloquei um laço de repetição `while` afim de "forçar" o usuário a inserir uma opção válida.
 * Inseri dois métodos para tratar da variável volume.
 
 # Futuras Implementações
