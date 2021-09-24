@@ -1,5 +1,5 @@
 # Implementação de Class em Python
-Implementação do exemplo de "class" proposto pelo professor Rafael Galleani no curso de Introdução à programação com Python
+Implementação do exemplo `class` proposto pelo professor Rafael Galleani no curso de Introdução à programação com Python
 
 # Diferenciais
 
